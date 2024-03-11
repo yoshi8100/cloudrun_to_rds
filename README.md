@@ -1,0 +1,2 @@
+# cloudrun_to_rds
+Cloud RunのサービスからAWSのRDSへの接続確認用テンプレート
