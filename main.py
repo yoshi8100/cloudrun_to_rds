@@ -5,7 +5,7 @@ from pymysql.err import OperationalError
 
 app = Flask(__name__)
 
-# AWS RDS 接続情報
+# AWS RDS 接続情報 こちらは各自必要な情報に置き換えてください。
 DB_USER = 'user_name'
 DB_PASSWORD = 'password'
 DB_NAME = 'db_name'
